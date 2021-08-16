@@ -1,0 +1,6 @@
+bad_movies_list = [Row(None, None, None),
+                   Row(None, None, 2020),
+                   Row("John Doe", "Awesome Movie", None),
+                   Row(None, "Awesome Movie", 2021),
+                   Row("Mary Jane", None, 2019),
+                   Row("Vikter Duplaix", "Not another teen movie", 2001)]

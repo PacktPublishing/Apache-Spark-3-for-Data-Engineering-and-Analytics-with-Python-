@@ -1,0 +1,3 @@
+data2001List = ['RIN1', 'RIN2', 'RIN3', 'RIN4', 'RIN5', 'RIN6', 'RIN7']
+data2002List = ['RIN3', 'RIN4', 'RIN7', 'RIN8', 'RIN9']
+data2003List = ['RIN4', 'RIN8', 'RIN10', 'RIN11', 'RIN12']
